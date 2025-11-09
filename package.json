@@ -1,0 +1,1 @@
+{"name":"queuectl","version":"1.0.0","description":"CLI job queue with retries, backoff, DLQ - Node.js","main":"src/cli.js","bin":{"queuectl":"./src/cli.js"},"scripts":{"start":"node ./src/cli.js","test":"bash ./tests/run_tests.sh"},"dependencies":{"better-sqlite3":"^8.3.0","commander":"^11.0.0","express":"^5.1.0","uuid":"^9.0.0"}}
